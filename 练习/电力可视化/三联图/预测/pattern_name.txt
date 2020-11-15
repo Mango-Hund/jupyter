@@ -1,0 +1,8 @@
+pattern_1  balance
+pattern_2  bimodal-pattern-deviation
+pattern_3  bimodal pattern-winter
+pattern_4  bimodal-pattern-summer
+pattern_5  high-energy-consumption
+pattern_6  Idle-pattern
+pattern_7  low energy consumption pattern
+pattern_8  sum
